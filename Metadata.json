@@ -1,4 +1,20 @@
 {
-  "Author": "Azure Automation Support Team"
-  "IsFederated": true
+    "Author": "Nina Li",
+    "ContentSize": 5150,
+    "ContentUrl": "https://raw.githubusercontent.com/MSNina123456/import-py3package-USI/main/import-py3package-UserAssignedMI.py",
+    "DownloadCount": 0,
+    "Id": "MSNina123456/import-py3package-USI",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 4,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2022-01-21T00:00:00",
+    "RunbookKind": 10,
+    "RunbookKindString": "Python3",
+    "Summary": " use system-assigned managed identity to import python 3 packages to Azure automation. ",
+    "Title": "Import python 3 packages via USI",
+    "UpdatedDate": "2022-01-21T00:00:00",
+    "Url": "https://github.com/MSNina123456/import-py3package-USI",
+    "UserTags": "Python, Azure Automation"
 }
