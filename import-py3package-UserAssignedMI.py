@@ -102,7 +102,7 @@ if __name__ == '__main__':
     module_name = None
     client_id_usi = None
 
-    opts, args = getopt.getopt(sys.argv[1:], "s:g:a:m:c")
+    opts, args = getopt.getopt(sys.argv[1:], "s:g:a:m:c:")
     for o, i in opts:
         if o == '-s':  
             subscription_id = i
